@@ -29,16 +29,16 @@
 
 
 ### Краткая информация о данных
-Улучшенный код находится тут(https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v3.py)
+Улучшенный код находится [тут](https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v3.py)
   
 :arrow_up:[к оглавлению](https://github.com/zebrarulet/sf_data_science/tree/main/guess-number-task/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-1. Первый этап - игра game.py(https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game.py)
-2. Второй этап - игра game_v2.py(https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v2.py)
-3. Второй этап - игра game_v3.py(https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v3.py)
-4. Добавление файла README.md(https://github.com/zebrarulet/sf_data_science/blob/main/README.md) и requirements.txt(https://github.com/zebrarulet/sf_data_science/blob/main/requirements.txt)
+1. Первый этап - игра [game.py](https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game.py)
+2. Второй этап - игра [game_v2.py](https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v2.py)
+3. Второй этап - игра [game_v3.py](https://github.com/zebrarulet/sf_data_science/blob/main/guess-number-task/game_v3.py)
+4. Добавление файла [README.md](https://github.com/zebrarulet/sf_data_science/blob/main/README.md) и [requirements.txt](https://github.com/zebrarulet/sf_data_science/blob/main/requirements.txt)
 
 :arrow_up:[к оглавлению](https://github.com/zebrarulet/sf_data_science/tree/main/guess-number-task/README.md#Оглавление)
 
@@ -50,6 +50,6 @@
 
 
 ### Выводы:  
-Ссылка на файл гугл-коллаб(https://colab.research.google.com/drive/1rb-1UXclqnqpSH2YO2DPJ8eaoAcogYQQ?usp=sharing)
+Ссылка на файл [гугл-коллаб](https://colab.research.google.com/drive/1rb-1UXclqnqpSH2YO2DPJ8eaoAcogYQQ?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/zebrarulet/sf_data_science/tree/main/guess-number-task/README.md#Оглавление)
